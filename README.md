@@ -1,5 +1,7 @@
 ## FlutterCon 23 Resources
 
+I created this repo to collect all the slides from the talks at [FlutterCon 23](https://fluttercon.dev/):
+
 - [Agenda](https://fluttercon.dev/agenda/)
 - [Speakers](https://fluttercon.dev/speakers/)
 
