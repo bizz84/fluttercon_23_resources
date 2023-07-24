@@ -5,8 +5,12 @@
 
 ## Talks List
 
-| Talk Title                                                                                           | Speakers                                                                                           | Day       | Time     | Resources  |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
+Following FlutterCon, I've asked all the speakers to share a link to their slides and I've collected [all the answers](https://twitter.com/biz84/status/1677621155769753601) in the table below. 👇
+
+If your talk is not included and you'd like to add it to this list, please submit a PR (_note: all the talks are sorted in chronological order based on the agenda_). 🙏
+
+| Talk Title                                                                                           | Speakers                                                                                                            | Day       | Time     | Resources  |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
 | Deploying your Dart server applications around the Globe                                             | [Majid Hajian](https://twitter.com/mhadaily) & [Mike Diarmid](https://twitter.com/mikediarmid)                      | Wednesday | 10:20 AM | [slides](https://invertase.slides.com/mikediarmid/globe) |
 | Demystifying Text Rendering in Flutter                                                               | [Raouf Raniche](https://twitter.com/raoufrahiche)                                                                   | Wednesday | 11:15 AM | [slides](https://docs.google.com/presentation/d/1aGpzwXTj_JbNnRyIoXXSzVcEsBnYKhq_6J7eXX3VvMA/edit#slide=id.p)
 | Reimagining Flutter UI tests with Patrol                                                             | [Bartek Pacia](https://twitter.com/bartekpacia) & [Mateusz Wojtczak](https://twitter.com/matiwojt)                  | Wednesday | 10:20 AM | [slides](https://docs.google.com/presentation/d/e/2PACX-1vSPuEU-QszHJA_Hgc6MzFDlfcVg92ucFaR_W1zs_BATGV9DeP-XyUeveyhmAXjAYriHFJrGi_fyuJ7w/pub?start=false&loop=false&delayms=3000#slide=id.gd223d3296d_0_0) |
